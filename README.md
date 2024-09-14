@@ -19,6 +19,6 @@ We are going to use different technologies such as Python, Amazon Web Services (
 - Apache Kafka
 
 ## Dataset Used
-The dataset used in this project - 
+The dataset used in this project - https://github.com/Ishikapriya08/Real-Time-Stock-Market-Analysis-with-Kafka/blob/main/indexProcessed.csv
 
 
