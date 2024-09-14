@@ -6,7 +6,7 @@ In this project, you will execute an End-To-End Data Engineering Project on Real
 We are going to use different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
 ## Architecture 
-
+![Architecture](https://github.com/user-attachments/assets/a2366b79-31ea-4cb4-8402-c31b928c8738)
 
 ## Technology Used
 - Programming Language - Python
